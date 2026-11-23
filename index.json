@@ -2,6 +2,23 @@
   "version": 1,
   "packs": [
     {
+      "id": "by-autobahn",
+      "group": "Deutschland",
+      "name": "Bayern – nur Autobahnen",
+      "file": "nds-by-autobahn.krn",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/nds-by-autobahn.krn",
+      "size": 341221490,
+      "km2": 5065,
+      "date": "2026-11-23T20:06",
+      "bbox": [
+        47.536,
+        9.0,
+        50.436,
+        13.434
+      ],
+      "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
+    },
+    {
       "id": "at-brenner",
       "group": "Österreich",
       "name": "Brenner-Korridor (A12 Kufstein–Innsbruck, A13 bis Brenner)",
