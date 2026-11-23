@@ -9,8 +9,13 @@
       "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/nds-at-brenner.krn",
       "size": 21605766,
       "km2": 253,
-      "date": "2026-11-23",
-      "bbox": [47.00, 11.24, 47.61, 12.20],
+      "date": "2026-11-23T15:21",
+      "bbox": [
+        46.998,
+        11.234,
+        47.611,
+        12.207
+      ],
       "license": "BEV – Bundesamt für Eich- und Vermessungswesen, CC BY 4.0"
     }
   ]
