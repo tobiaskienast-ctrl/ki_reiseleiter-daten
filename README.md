@@ -3,6 +3,11 @@
 Aufbereitete Kartendaten für die App „KI-Reiseleiter“ (Android). Die App lädt diese Dateien direkt aus den
 Releases dieses Repos. Hier liegen nur Daten, kein Programmcode.
 
+## Katalog
+`index.json` listet alle Pakete (id, group, name, file, url, size, km2, date, bbox, license); die App liest ihn
+und zeigt die Pakete zur Auswahl. Neues Paket: Datei ins Release hochladen, Eintrag ergänzen, `date` erhöhen
+zeigt in der App „Update verfügbar“.
+
 ## Releases
 - **`laser`** – Laser-Oberfläche entlang von Hauptstraßen, Format KRN2 (1-km-Kacheln, 5-m-Raster, einzeln
   gepackt mit Index). Je Zelle: höchster Punkt (Oberfläche) und mittlere Geländehöhe (Boden), in Dezimetern.

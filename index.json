@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "at-brenner",
+      "group": "Österreich",
+      "name": "Brenner-Korridor (A12 Kufstein–Innsbruck, A13 bis Brenner)",
+      "file": "nds-at-brenner.krn",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/nds-at-brenner.krn",
+      "size": 21605766,
+      "km2": 253,
+      "date": "2026-11-23",
+      "bbox": [47.00, 11.24, 47.61, 12.20],
+      "license": "BEV – Bundesamt für Eich- und Vermessungswesen, CC BY 4.0"
+    }
+  ]
+}
