@@ -36,6 +36,23 @@
       "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
     },
     {
+      "id": "by-oberpfalz",
+      "group": "Deutschland",
+      "name": "Bayern – Oberpfalz (Bundesstraßen)",
+      "file": "nds-by-oberpfalz.krn",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/nds-by-oberpfalz.krn",
+      "size": 95284090,
+      "km2": 1307,
+      "date": "2026-11-26T15:43",
+      "bbox": [
+        48.747,
+        11.325,
+        50.045,
+        12.867
+      ],
+      "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
+    },
+    {
       "id": "by-schwaben",
       "group": "Deutschland",
       "name": "Bayern – Schwaben (Bundesstraßen)",
