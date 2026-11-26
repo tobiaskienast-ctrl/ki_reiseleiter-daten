@@ -2,6 +2,23 @@
   "version": 1,
   "packs": [
     {
+      "id": "by-niederbayern",
+      "group": "Deutschland",
+      "name": "Bayern – Niederbayern (Bundesstraßen)",
+      "file": "nds-by-niederbayern.krn",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/nds-by-niederbayern.krn",
+      "size": 120154468,
+      "km2": 1657,
+      "date": "2026-11-26T14:24",
+      "bbox": [
+        48.217,
+        11.651,
+        49.15,
+        13.817
+      ],
+      "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
+    },
+    {
       "id": "by-oberbayern",
       "group": "Deutschland",
       "name": "Bayern – Oberbayern (Bundesstraßen)",
