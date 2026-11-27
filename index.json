@@ -105,6 +105,24 @@
       "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
     },
     {
+      "id": "glo-de",
+      "kind": "dem",
+      "group": "Deutschland",
+      "name": "Deutschland – Gelände fein (30 m)",
+      "file": "glo-de.krg",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/glo-de.krg",
+      "size": 260429790,
+      "km2": 0,
+      "date": "2026-11-27T10:23",
+      "bbox": [
+        47.0,
+        5.0,
+        55.0,
+        16.0
+      ],
+      "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
+    },
+    {
       "id": "at-brenner",
       "group": "Österreich",
       "name": "Brenner-Korridor (A12 Kufstein–Innsbruck, A13 bis Brenner)",
