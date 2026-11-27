@@ -87,6 +87,24 @@
       "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
     },
     {
+      "id": "glo-by",
+      "kind": "dem",
+      "group": "Deutschland",
+      "name": "Bayern – Gelände fein (30 m)",
+      "file": "glo-by.krg",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/glo-by.krg",
+      "size": 103474706,
+      "km2": 0,
+      "date": "2026-11-27T10:01",
+      "bbox": [
+        47.0,
+        9.0,
+        51.0,
+        14.0
+      ],
+      "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
+    },
+    {
       "id": "at-brenner",
       "group": "Österreich",
       "name": "Brenner-Korridor (A12 Kufstein–Innsbruck, A13 bis Brenner)",
