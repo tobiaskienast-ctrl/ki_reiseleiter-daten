@@ -2,6 +2,24 @@
   "version": 1,
   "packs": [
     {
+      "id": "glo-by",
+      "kind": "dem",
+      "group": "Deutschland",
+      "name": "Bayern – Gelände fein (30 m)",
+      "file": "glo-by.krg",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/glo-by.krg",
+      "size": 103474706,
+      "km2": 0,
+      "date": "2026-11-27T10:01",
+      "bbox": [
+        47.0,
+        9.0,
+        51.0,
+        14.0
+      ],
+      "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
+    },
+    {
       "id": "by-niederbayern",
       "group": "Deutschland",
       "name": "Bayern – Niederbayern (Bundesstraßen)",
@@ -32,6 +50,23 @@
         10.736,
         49.069,
         13.054
+      ],
+      "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
+    },
+    {
+      "id": "by-oberfranken",
+      "group": "Deutschland",
+      "name": "Bayern – Oberfranken (Bundesstraßen)",
+      "file": "nds-by-oberfranken.krn",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/nds-by-oberfranken.krn",
+      "size": 111086716,
+      "km2": 1433,
+      "date": "2026-11-27T10:33",
+      "bbox": [
+        49.586,
+        10.419,
+        50.527,
+        12.272
       ],
       "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
     },
@@ -85,24 +120,6 @@
         13.434
       ],
       "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
-    },
-    {
-      "id": "glo-by",
-      "kind": "dem",
-      "group": "Deutschland",
-      "name": "Bayern – Gelände fein (30 m)",
-      "file": "glo-by.krg",
-      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/glo-by.krg",
-      "size": 103474706,
-      "km2": 0,
-      "date": "2026-11-27T10:01",
-      "bbox": [
-        47.0,
-        9.0,
-        51.0,
-        14.0
-      ],
-      "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
     },
     {
       "id": "glo-de",
