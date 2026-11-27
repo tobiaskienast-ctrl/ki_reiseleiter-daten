@@ -20,6 +20,23 @@
       "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
     },
     {
+      "id": "by-mittelfranken",
+      "group": "Deutschland",
+      "name": "Bayern – Mittelfranken (Bundesstraßen)",
+      "file": "nds-by-mittelfranken.krn",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/nds-by-mittelfranken.krn",
+      "size": 53299783,
+      "km2": 845,
+      "date": "2026-11-27T11:23",
+      "bbox": [
+        48.873,
+        10.094,
+        49.798,
+        11.569
+      ],
+      "license": "Bayerische Vermessungsverwaltung – www.geodaten.bayern.de, CC BY 4.0"
+    },
+    {
       "id": "by-niederbayern",
       "group": "Deutschland",
       "name": "Bayern – Niederbayern (Bundesstraßen)",
