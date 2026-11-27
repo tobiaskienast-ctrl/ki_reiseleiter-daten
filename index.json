@@ -138,6 +138,24 @@
         18.0
       ],
       "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
+    },
+    {
+      "id": "glo-it",
+      "kind": "dem",
+      "group": "Italien",
+      "name": "Italien – Gelände fein (30 m)",
+      "file": "glo-it.krg",
+      "url": "https://github.com/tobiaskienast-ctrl/ki_reiseleiter-daten/releases/download/laser/glo-it.krg",
+      "size": 227525649,
+      "km2": 0,
+      "date": "2026-11-27T10:14",
+      "bbox": [
+        36.0,
+        6.0,
+        48.0,
+        19.0
+      ],
+      "license": "Copernicus DEM GLO-30 – © DLR e.V. 2010-2014 und © Airbus Defence and Space GmbH 2014-2018, bereitgestellt unter COPERNICUS durch die Europäische Union und ESA"
     }
   ]
 }
